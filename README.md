@@ -1,6 +1,7 @@
 # 🛒 Online Retail Analysis
 
 This project demonstrates an **intermediate-level data analytics pipeline** using **PostgreSQL, SQL (via SQLTools in VS Code), and Python**.  
+
 It follows a **layered ETL approach** (`RAW → STAGING/CLEANING → CORE → REPORTING`) and ends with visualizations in Python.
 
 
